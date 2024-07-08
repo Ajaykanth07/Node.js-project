@@ -1,2 +1,1 @@
-# Poor-Mans-Google-Search
- Workshop Session Project
+Project done in a Workshop
